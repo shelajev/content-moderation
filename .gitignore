@@ -1,0 +1,11 @@
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# Source reference files (not part of the docs site)
+task.md
+API_DESIGN.md
+BEST_PRACTICES.md
+DESIGN_JUSTIFICATION.md
+tweets.md
+openapi.yaml
